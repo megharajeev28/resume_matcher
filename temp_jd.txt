@@ -1,0 +1,32 @@
+Software Engineer (Backend)
+We are seeking a highly skilled Backend Software Engineer to join our team. The ideal candidate has strong experience in building scalable and reliable web applications.
+
+Responsibilities:
+
+Design, develop, and maintain server-side logic and databases.
+
+Write high-quality, clean, and well-documented code in Python.
+
+Develop and deploy RESTful APIs.
+
+Collaborate with front-end developers to integrate user-facing elements.
+
+Optimize application for maximum speed and scalability.
+
+Implement security and data protection measures.
+
+Participate in code reviews and contribute to architectural decisions.
+
+Qualifications:
+
+Bachelor's degree in Computer Science or a related field.
+
+3+ years of professional experience in backend development.
+
+Proficient in Python, with a strong understanding of web frameworks like Flask or Django.
+
+Experience with relational databases (e.g., PostgreSQL, MySQL).
+
+Knowledge of version control systems (Git).
+
+Familiarity with cloud services (AWS, Google Cloud) is a plus.

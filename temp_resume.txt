@@ -1,0 +1,34 @@
+Taylor Smith
+Email: taylor.smith@email.com | Phone: (555) 555-5555 | Portfolio: https://www.google.com/search?q=github.com/taylorsmith
+
+Summary
+Highly proficient and detail-oriented Software Engineer with a strong background in backend development and data analysis. I have extensive experience with Python and SQL, and am skilled in applying machine learning principles to solve complex problems. My expertise includes building scalable applications, managing databases, and using Docker for containerization to ensure seamless deployment and environment consistency.
+
+Experience
+Senior Data Scientist | Innovation Labs Inc. | 2021 - Present
+
+Led the data analysis and modeling efforts for key product features, significantly improving user engagement.
+
+Developed and deployed machine learning models using Python and scikit-learn.
+
+Wrote complex SQL queries to extract and transform data from large databases.
+
+Utilized Docker to containerize development and production environments.
+
+Software Engineer | Tech Solutions Co. | 2019 - 2021
+
+Designed and built a RESTful API using Python and the Flask framework.
+
+Maintained a PostgreSQL database and optimized SQL queries.
+
+Collaborated with a team to integrate new features into a monolithic application.
+
+Skills
+Programming Languages: Python, JavaScript
+Tools & Technologies: SQL, Docker, Git, RESTful APIs
+Data & AI: Machine Learning, Data Analysis, Data Visualization
+Cloud & DevOps: AWS, Docker
+
+Education
+Master of Science in Computer Science | University of Technology | 2017 - 2019
+Bachelor of Science in Data Science | State University | 2013 - 2017
