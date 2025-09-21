@@ -1,4 +1,4 @@
-Automated Resume Relevance Check System
+# Automated Resume Relevance Check System
 
 Project Overview
 This is an AI-powered application designed to automate and streamline the process of matching resumes to job descriptions. The system analyzes a candidate's resume against a specific job description, providing a detailed relevance score and a breakdown of their skills.
